@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Shopping list</string>
+    <string name="email" translatable="false">E-mail</string>
+    <string name="password">Hasło</string>
+    <string name="log_in" translatable="false">Log in</string>
+    <string name="register">Register</string>
+    <string name="offline">offline</string>
+    <string name="done">done</string>
+    <string name="budget">Budget</string>
+    <string name="new_shopping_list">New shopping list</string>
+    <string name="product">Product</string>
+    <string name="shop">Shop</string>
+    <string name="shop_name">Shop name</string>
+    <string name="budget_amount">100</string>
+    <string name="shopping_list">Shopping list</string>
+    <string name="delete">Delete</string>
+</resources>
